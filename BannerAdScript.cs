@@ -6,9 +6,9 @@ using UnityEngine.Advertisements;
 public class BannerAdScript : MonoBehaviour
 {
 	//código do jogo no Android ou IOS
-    string gameId = "4110283";
+    string gameId = "seu game id aqui";
 	//código da propaganda
-    string myPlacementId = "BannerADS";
+    string myPlacementId = "codigo do banner aqui";
 	//se a propaganda esta em teste ou não
     bool testMode = false;
 
