@@ -15,8 +15,8 @@ public class InterstitialAdsScript
     //{
     //    //O ideal é não deixar pré definido esses valores
     //    //o ideal é utilizar o outro construtor
-    //    this.GameId = "4110283";
-    //    this.MyPlacementId = "VideoADS";
+    //    this.GameId = "";
+    //    this.MyPlacementId = "";
     //    this.TestMode = true;
     //    Advertisement.Initialize(GameId, TestMode);
     //}
